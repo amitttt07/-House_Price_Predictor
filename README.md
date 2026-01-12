@@ -112,4 +112,5 @@ house-price-predictor/
 ✅ **Response Time**: <100ms  
 ✅ **Fallback System**: Always works  
 ✅ **Professional UI**: Modern design  
-✅ **8 Cities Ready**: Full Uttarakhan
+
+✅ **8 Cities Ready**: Full Uttarakhand
